@@ -25,4 +25,4 @@ Device support files for Amlogic S905L3A TV Box with Android 15 Treble and AIDL 
 - Upgrading to kernel 5.x or higher is **NOT recommended**, as it will break GPU/3D functions.
 
 ## Credits
-Amlogic, Open Source Community, Treble Developers
+Amlogic, ZNDS: @Greatson (https://www.znds.com/tv-1257378-1-1.html)(https://www.znds.com/home.php?mod=space&uid=2855187),CSDN: @Sicha思咖 (https://blog.csdn.net/FlyShooter01?type=blog)(https://blog.csdn.net/FlyShooter01/article/details/145212229), Treble Developers
