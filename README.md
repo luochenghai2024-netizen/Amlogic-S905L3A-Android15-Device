@@ -6,7 +6,7 @@ Android 15 Treble Device Tree for Amlogic S905L3A TV Box | 4.9 Kernel | AIDL Ven
 Device support files for Amlogic S905L3A TV Box with Android 15 Treble and AIDL vendor.
 
 ## Device Specifications
-- Chipset: Amlogic S905L3A, overclocked from 1.8GHz to 1.92GHz
+- Chipset: Amlogic S905L3A, boosted from 1.8GHz to 1.92GHz
 - Kernel: Linux 4.9 (including backported features)
 - Architecture: ARM
 - Storage: 8GB eMMC
