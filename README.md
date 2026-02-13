@@ -29,8 +29,8 @@ Device support files for Amlogic S905L3A TV Box with Android 15 Treble and AIDL 
 
 *[ZNDS](https://www.znds.com/tv-1257378-1-1.html) - @Greatson*
 
-*[CSDN](https://blog.csdn.net/FlyShooter01/article/details/145212229). - @Sicha思咖*
+*[CSDN](https://blog.csdn.net/FlyShooter01/article/details/145212229) - @Sicha思咖*
 
 *Treble Developers*
 
-*[LineageOS](https://download.lineageos.org/devices/radxa0_tab/builds). - @bgcngm @npjohnson @stricted*
+*[LineageOS](https://download.lineageos.org/devices/radxa0_tab/builds) - @bgcngm @npjohnson @stricted*
