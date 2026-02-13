@@ -12,7 +12,7 @@ Device support files for Amlogic S905L3A TV Box with Android 15 Treble and AIDL 
 - Storage: 8GB eMMC
 - Super partition size: 2GB
 - Cache partition: Reduced from 1GB to 16MB via DTS modification
-
+- By compressing the cache partition by modifying the device tree file, the available space in the data partition increased to approximately 4.4 GB (on an 8GB eMMC device).
 ## Features
 - Standard Project Treble support
 - Display, Audio, Bluetooth working
